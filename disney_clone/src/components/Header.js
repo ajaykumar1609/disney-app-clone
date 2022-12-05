@@ -73,7 +73,7 @@ const NavMenu = styled.div`
         bottom: -7px;
         opacity: 0;
         transform-origin: left center;
-        transition: all 400ms;
+        transition: all 450ms;
         transform: scaleX(0);
       }
     }
