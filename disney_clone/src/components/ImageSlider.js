@@ -52,7 +52,7 @@ const Carousel = styled(Slider)`
 const Wrap = styled.div`
   img {
     border: 4px solid transparent;
-    border-radius: 8px;
+    border-radius: 10px;
     width: 100%;
     height: 100%;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
